@@ -1,0 +1,10 @@
+Parameters used to generate the output file:
+Reference Color rgb: [(90, 90, 90)]
+Comparison Colors rgb: [(59, 59, 59), (68, 68, 68), (78, 78, 78), (90, 90, 90), (103, 103, 103), (119, 119, 119), (136, 136, 136)]
+Background Colors rgb: [(0, 0, 0)]
+Fixed Background rgb: [(0, 0, 0)]
+Number of Repetitions: 48
+Output File (Gamma Corrected): /Users/vsingh1/Documents/SequentialEffect/Data/Rock/condition_3/Repetition_1/trials_condition_3_rep_1_gamma_corrected.txt
+Output File (Linear RGB): /Users/vsingh1/Documents/SequentialEffect/Data/Rock/condition_3/Repetition_1/trials_condition_3_rep_1.txt
+Condition File: conditions_condition_3_rep_1.txt
+Base Folder: /Users/vsingh1/Documents/SequentialEffect/Data/Rock/condition_3/Repetition_1

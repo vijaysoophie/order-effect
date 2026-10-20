@@ -1,0 +1,10 @@
+Parameters used to generate the output file:
+Reference Color rgb: [(30, 30, 30)]
+Comparison Colors rgb: [(20, 20, 20), (23, 23, 23), (26, 26, 26), (30, 30, 30), (34, 34, 34), (40, 40, 40), (45, 45, 45)]
+Background Colors rgb: [(0, 0, 0)]
+Fixed Background rgb: [(0, 0, 0)]
+Number of Repetitions: 48
+Output File (Gamma Corrected): /Users/vsingh1/Documents/SpaceOrderEffect/Data/Rock/condition_1/Repetition_1/trials_condition_1_rep_1_gamma_corrected.txt
+Output File (Linear RGB): /Users/vsingh1/Documents/SpaceOrderEffect/Data/Rock/condition_1/Repetition_1/trials_condition_1_rep_1.txt
+Condition File: conditions_condition_1_rep_1.txt
+Base Folder: /Users/vsingh1/Documents/SpaceOrderEffect/Data/Rock/condition_1/Repetition_1
